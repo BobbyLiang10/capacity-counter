@@ -1,7 +1,7 @@
 # capacity-counter
 Capacity Counter (CS50 Final Project)
 Video Demo: https://youtu.be/2VmucU5f_e0
-Description:
+
 Purpose: The intent of this project was to create a counter for small local businesses to keep track of how many people are in their store. This idea was inspired by the aftermath of COVID-19 and how it affected many local businesses as there were many capacity restrictions for small businesses. Thus, I created this app to help local business owners keep track of the number of people in their store to keep everybody safe while keeping their business afloat.
 
 Note: This project was created using Android Studio.
